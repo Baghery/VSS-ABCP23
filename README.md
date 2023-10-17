@@ -10,10 +10,10 @@ Current implementation is done using SageMath and the code includes the implemen
 
 ## Running the Code
 **Note: This implementation is intended for academic purposes.**
-### Option 1: Online SageMath Terminal
+### Option 1: SageMath Terminal
 A simple way to run our code is to copy the source code from this repository into the SageMath terminal and push the Enter press! 
 
-### Option 2: Run Online
+### Option 2: Run in Online SageMath Terminal
 Alternatively, you can run the code directly in an online SageMath terminal by clicking the following link:
 [Run Online](https://sagecell.sagemath.org/?q=vltjsh)
 
