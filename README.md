@@ -1,12 +1,12 @@
 # [VSS from Distributed ZK Proofs and Applications](https://eprint.iacr.org/2023/992)
 
-This repository contains the implementation of our Verifiable Secret Sharing scheme, as presented in our paper titled [VSS from Distributed ZK Proofs and Applications](https://eprint.iacr.org/2023/992). The paper is publicly available on the [IACR eprint](https://eprint.iacr.org/2023/992) archive and was authored by Shahla Atapoor, Karim Baghery, Daniele Cozzo, and Robi Pedersen.
+This repository contains the implementation of our Verifiable Secret Sharing scheme, as presented in our paper titled [VSS from Distributed ZK Proofs and Applications](https://eprint.iacr.org/2023/992). The paper is publicly available on the [IACR eprint](https://eprint.iacr.org/2023/992) archive and was authored by Shahla Atapoor, Karim Baghery, Daniele Cozzo, and Robi Pedersen. The implementations are done by Robi Pedersen and Karim Baghery.
 
 ## Overview
-Current implementation is done using SageMath and the code includes the implementaiton of, 
-- Shamir Standard Secret Sharing
-- Pedersen Verifiable Secret Sharing
-- Our proposed post-quantum secre verifiable secret sharing scheme
+Current implementation is done using SageMath and the code includes the implementaiton of following schemes: 
+- Shamir Secret Sharing 
+- Pedersen Verifiable Secret Sharing 
+- Our new Verifiable Secret Sharing 
 
 ## Running the Code
 **Note: This implementation is intended for academic purposes.**
