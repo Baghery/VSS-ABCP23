@@ -9,7 +9,9 @@ Current implementation is done using SageMath and the code includes the implemen
 - Our new Verifiable Secret Sharing 
 
 ## Running the Code
-**Note: This implementation is intended for academic purposes.**
+
+**WARNING:** This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
+
 ### Option 1: SageMath Terminal
 A simple way to run our code is to copy the source code from this repository into the SageMath terminal and push the Enter press! 
 
